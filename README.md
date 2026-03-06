@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 👋 I'm Borys Solomka
+# Hi there! 👋 I'm Borys Solomka
 
 ### 🇺🇦 Ukrainian Unity Game Developer
 
