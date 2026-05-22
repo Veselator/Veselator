@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a game developer passionate about writing well-structured, maintainable code. I prefer C# as my primary language but I open to new technologies
+I'm a game developer passionate about writing well-structured, maintainable code. I prefer C# .Net as my primary language but I open to new technologies
 
 ## 🛠️ Tech Stack
 
